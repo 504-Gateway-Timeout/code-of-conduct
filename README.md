@@ -1,8 +1,8 @@
-# Community Covenant
+# Community Covenant and Code of Conduct
 
 ## Our Goal
 
-This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
+The 504 Gateway Timeout community is dedicated to providing a harassment-free, anti-oppresion experience for everyone. We do not tolerate harassment of participants or oppression in any form.
 
 ## Applicability and Scope
 
@@ -42,11 +42,30 @@ This community will not tolerate harassment of any kind. Examples of harassment 
 
 If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
-## Reporting
+504 Gateway Timeout prioritizes marginalized people’s safety over privileged people’s comfort. The administrators will not act on complaints regarding:
 
-If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the administrators via [INSERT APPROPRIATE CONTACT METHOD HERE]. If the person who is harassing you is on the admin team, they will not be involved in handling or resolving the incident.
+* "Reverse"-isms, including "reverse racism," "reverse sexism," and "cisphobia"
+* Reasonable communication of boundaries, such as "leave me alone," "go away," or "I’m not discussing this with you."
+* Communicating in a "tone" you don’t find congenial
+* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [EMAIL ADDRESS HERE].
+The examples listed above are not against the Code of Conduct.
+
+## When Something Happens
+If you see a Code of Conduct violation, follow these steps:
+
+* Let the person know that what they did is not appropriate and ask them to stop and/or edit their message(s).
+* That person should immediately stop the behavior and correct the issue.
+* If this doesn’t happen, or if you’re uncomfortable speaking up, contact admins.
+* As soon as available, an admin will join, identify themselves, and take further action (see below), starting with a warning, then temporary deactivation, then long-term deactivation.
+* When reporting, please include any relevant details, links, screenshots, context, or other information that may be used to better understand and resolve the situation.
+* The Admin team will prioritize the well-being and comfort of those affected negatively by the violation over the comfort of the violator.
+
+### Reporting
+
+If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the administrators via [504gatewaytimeoutnola@gmail.com](mailto:504gatewaytimeoutnola@gmail.com&Subject=CoC%20report). Using the subject "CoC report" will automatically forward to all admins. If the person who is harassing you is on the admin team, they will not be involved in handling or resolving the incident.
+
+The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [504gatewaytimeoutnola@gmail.com](mailto:504gatewaytimeoutnola@gmail.com&Subject=CoC%20report).
 
 This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this community.
 
